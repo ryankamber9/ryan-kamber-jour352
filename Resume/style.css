@@ -2,11 +2,16 @@
 
 /*default*/ body {font-family: 'Open Sans', sans-serif; color: #444; font-size: 1.5em;}
 header {font-family: 'Open Sans', sans-serif;}
-/*name*/h1 {font-size: 3em; color: blue; text-transform: uppercase;}
-/*title*/strong {text-transform: uppercase; font-size: 1.5em; color: blue;}
-/*section titles*/h2 {font-size: 1.5em; text-transform: uppercase; background-color: blue; color: white; font-weight: 400 bold;
+/*name*/h1 {font-size: 3em; color: white; text-transform: uppercase; background-color: red; text-align: center}
+/*title*/strong {text-transform: uppercase; font-size: 1.5em; color: red;}
+/*section titles*/h2 {font-size: 1.5em; text-transform: uppercase; text-align: center; background-color: red; color: white; font-weight: 400 bold;
 }
 /*job titles*/h3 {font-weight: 600 bold; font-size: 1.5em}
 /*job organization*/h4 {font-weight: 400 bold; font-size: 1.5em}
 /*job dates*/h5 {font-weight: 400 bold; font-size: 1em; font-style: italic;}
 /*contact info, education, skills*/li {font-size: 1em}
+div {
+  font-family: 'Open Sans', sans-serif;
+  color: red;
+  font-size: 1em;
+}
